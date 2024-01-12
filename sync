@@ -1,0 +1,19 @@
+#!/bin/bash
+
+set -e # Exit on error
+
+preln() { echo; echo $1; } # Print with a starting newline
+
+#echo "Syncing Notes"
+#git pull
+
+preln "Staging changed files"
+git add .
+
+preln "Committing staged files"
+git commit -m "Sync Notes - $(date)"
+
+preln "Pushing changes to GitHub"
+git push -u origin main
+
+preln "Finished Syncing"
