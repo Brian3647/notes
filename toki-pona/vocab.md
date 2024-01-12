@@ -5,6 +5,7 @@
 | ijo     | thing                            | IMPORTANT |
 | e       | marks CD (direct object)         | IMPORTANT |
 | o       | marks imperative / get attention | IMPORTANT |
+| seme    | question marker                  | IMPORTANT |
 | telo    | water / fluid                    |           |
 | lukin   | look/see/watch 'mirar'           |           |
 | ni      | this, that, 'es[t]o'             | IMPORTANT |
