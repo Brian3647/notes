@@ -2,7 +2,9 @@
 
 | word    | meaning                          | notes     |
 | ------- | -------------------------------- | --------- |
+| anu     | or                               | IMPORTANT |
 | ijo     | thing                            | IMPORTANT |
+| jo      | have, contain                    | IMPORTANT |
 | e       | marks CD (direct object)         | IMPORTANT |
 | o       | marks imperative / get attention | IMPORTANT |
 | seme    | question marker                  | IMPORTANT |
@@ -19,14 +21,15 @@
 | mute    | mucho                            |           |
 | pali    | to do, make, work, build         |           |
 | lili    | small, few                       |           |
-| suli    | grande, important                |           |
+| suli    | big, important                   |           |
 | sona    | know, understand, learn          |           |
+| tawa    | go, in order to, movement        |           |
 | musi    | fun, play, game                  |           |
 | toki    | communicate, language, talk      |           |
 | moku    | food, eat, drink, consume        |           |
 | lape    | sleep, rest, dream               |           |
-| olin    | love, respect, appreciate        | IMPORTANT |
-| ma      | land, outside                    |           |
+| olin    | love, respect, appreciate        |           |
+| ma      | land, outside, place             |           |
 | kulupu  | group, community                 |           |
 | nasin   | way, manner, custom              |           |
 | nimi    | name, word, term, expression     |           |
@@ -37,3 +40,32 @@
 | mama    | parent, ancestor                 |           |
 | tomo    | building, room                   |           |
 | sino    | light, sun                       |           |
+| kalama  | sound                            |           |
+| tempo   | time, duration, event            |           |
+| jaki    | unclean, gross                   |           |
+| linja   | rope, hair, smth flexible        |           |
+| luka    | hand, arm, FIVE                  | IMPORTANT |
+| noka    | foot, leg                        |           |
+| lawa    | head, control                    |           |
+| ken     | ability, possible                |           |
+| kala    | fish, aquatic animal             |           |
+| sijelo  | body, state of being, torso      |           |
+| kasi    | plant                            |           |
+| pini    | final, complete                  |           |
+| kama    | arrive, begin, become, succeed   |           |
+| pipi    | bug, insect, spider              |           |
+| len     | fabric, clothing                 |           |
+| kiwen   | stone, metal, hard oobject       |           |
+| kon     | air, gas, invisible thing        |           |
+| poki    | box, container                   |           |
+| musi    | entretainment, art               |           |
+| awen    | continue, stay                   |           |
+| soweli  | animal, land mamal               |           |
+| sin     | new, additional, extra           |           |
+| alasa   | hunt, gather, search             |           |
+| mani    | money                            |           |
+| lupa    | hole, doorway                    |           |
+| meli    | female                           |           |
+| mije    | male                             |           |
+| moli    | death, kill                      |           |
+| mun     | moon                             |           |
